@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let element=documnet.getElementById("level")
+let element=document.getElementById("level")
 let n=0
 while (element) {
 	n++
